@@ -6,7 +6,6 @@ import numpy as np
 import torch
 from scipy.spatial import distance as dist
 
-sys.path.append('./face-alignment')
 import face_alignment
 
 sys.path.append('./EfficientNet_Classifier')
