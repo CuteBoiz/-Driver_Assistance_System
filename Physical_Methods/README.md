@@ -2,6 +2,9 @@
 
 ## Result
 
+<p align="center"><img src="https://github.com/CuteBoiz/Driver_Assistance_System/blob/Physical_Methods/Physical_Methods/doc/demo.gif" /></p>
+
+
 ## How to run?
 
 - **Clone & Setup:** 
@@ -17,7 +20,7 @@ python face_align.py
 
 ## How it work?
 
-![](https://github.com/CuteBoiz/Driver_Assistance_System/blob/Physical_Methods/Physical_Methods/doc/Physical%20CodeFlow.drawio.png)
+<p align="center"><img src="https://github.com/CuteBoiz/Driver_Assistance_System/blob/Physical_Methods/Physical_Methods/doc/Physical%20CodeFlow.drawio.png" /></p>
 
 ## Reference:
 
